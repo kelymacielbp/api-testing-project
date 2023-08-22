@@ -6,4 +6,6 @@ They can be implemented in various ways, one of them is by following an architec
 
 The interface documentation of a REST API can be created in various formats. One of the most well-known formats is Swagger. This project will use this documentation format. We will work using an application named "API Shop". The documentation of this API can be found at http://165.227.93.41/lojinha/lojinha-v2.yml
 
+It is possible to identify errors during the Swagger analysis.
+
 **Credits:** This content explores a subject based on the ideas and research of Julio de Lima. https://github.com/juliodelimas

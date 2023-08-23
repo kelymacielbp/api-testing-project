@@ -4,7 +4,7 @@ An API (Application Programming Interface) is a type of software implementation 
 
 They can be implemented in various ways, one of them is by following an architecture called REST (Representational State Transfer).
 
-The interface documentation of a REST API can be created in various formats. One of the most well-known formats is Swagger. Here we will use this documentation format. We will work using an application named "Shop API". The documentation of this API can be found at http://165.227.93.41/lojinha/lojinha-v2.yml
+The interface documentation of a REST API can be created in various formats. One of the most well-known formats is Swagger. Here we will use this documentation format. We will work using an application named "API shop". The documentation of this API can be found at http://165.227.93.41/lojinha/lojinha-v2.yml
 
 ![Swagger](images/swagger.PNG)
 

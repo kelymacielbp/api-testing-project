@@ -21,4 +21,7 @@ Using the API shop, we can insert a new user by setting up a POST HTTP method an
 
 ![Swagger](images/postman2.PNG)
 
+...
+<Wait. This content is being built.>
+...
 **Credits:** This content explores a subject based on the ideas and research of Julio de Lima. https://github.com/juliodelimas

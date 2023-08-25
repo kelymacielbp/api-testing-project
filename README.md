@@ -17,12 +17,14 @@ Postman is an API development tool which helps to build, test and modify APIs. h
 
 Using the API shop, we can insert a new user by setting up a POST HTTP method and the request "http://165.227.93.41/lojinha/v2/usuarios". We need to add Content-Type paramenter as "application/json" in header and configure the body of the request by selecting "raw" option and choosing "JSON". We insert the body content and click on "Send". Then, we've created a new user.
 
-![Swagger](images/postman1.PNG)
+![Postman](images/postman1.PNG)
 
-![Swagger](images/postman2.PNG)
+![Postman](images/postman2.PNG)
 
 ...
 <Wait. This content is being built.>
+
+<Insert: login example, http methods, vader heuristic, basic checklist to test>
 ...
 
 **Credits:** This content explores a subject based on the ideas and research of Julio de Lima. https://github.com/juliodelimas

@@ -24,7 +24,7 @@ Using the API shop, we can insert a new user by setting up a POST HTTP method an
 ...
 <Wait. This content is being built.>
 
-<Insert: login example, http methods, vader heuristic, basic checklist to test>
+<Insert: login example, http methods, vader heuristic, basic checklist to test, test automation with junit and restassured>
 ...
 
 **Credits:** This content explores a subject based on the ideas and research of Julio de Lima. https://github.com/juliodelimas
